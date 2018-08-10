@@ -1,0 +1,865 @@
+{
+    "status": "success", 
+    "date_created": "2018-08-10 15:05:39", 
+    "code": "CS", 
+    "data": [
+        {
+            "requisites": "Assumes basic high school mathematics (no calculus) but no programming experience.", 
+            "forbid": "Forbidden Overlap: due to a partial overlap in content, students will receive 6 credits instead of 8 if they take CS 1110 and one of the following: CS 1112, CS 1114,CS 1115, INFO 1100,VISST 1100.", 
+            "semesters": [
+                "Fall", 
+                "Spring", 
+                "Summer"
+            ], 
+            "id": "CS1110", 
+            "distr": "(MQR-AS)"
+        }, 
+        {
+            "requisites": "Corequisite: MATH 1110, MATH 1910, or equivalent. Assumes student is comfortable with mathematics (at level of one semester of calculus) but has no prior programming experience.", 
+            "forbid": "Forbidden Overlap: due to a partial overlap in content, students will receive 6 credits instead of 8 if they take CS 1112 and CS 1110. In addition, students will receive credit for only one course in the following group: CS 1112, CS 1114,CS 1115.", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS1112", 
+            "distr": "(MQR-AS)"
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS1132", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS1133", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS1300", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS1998", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: one programming course or equivalent programming experience.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS2024", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite:CS 1110or CS 1112or CS 1114or CS 1115or equivalent course on programming in a procedural language.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring", 
+                "Summer"
+            ], 
+            "id": "CS2110", 
+            "distr": "(MQR-AS)"
+        }, 
+        {
+            "requisites": "Corequisite: CS 2110.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS2111", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: very good performance in CS 1110orequivalent course in Java or C++, or permission of the instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS2112", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite or corequisite: one programming course or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS2800", 
+            "distr": "(MQR-AS)"
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS2850", 
+            "distr": "(SBA-AS)"
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110or equivalent programming experience. Prerequisite or corequisite: CS 2800. Should not be taken concurrently with CS 3410or CS 3420.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS3110", 
+            "distr": "(MQR-AS)"
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110or equivalent programming experience is required. Recommended prerequisite: CS 2024. Should not take CS 3110concurrently.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS3410", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS4090", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 3110or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4110", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite for programmers: CS 2110(or permission of the instructor). Prerequisite for designers: submission of art/design portfolio to instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4154", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: MATH 2210or MATH 2940or equivalent, one additional mathematics course numbered 3000 or above, and knowledge of programming. Students will be expected to be comfortable with proofs.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4210", 
+            "distr": "(MQR-AS)"
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110and CS 2800.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4320", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite or corequisite: CS 4320.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4321", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 3410or CS 3420.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring", 
+                "Summer"
+            ], 
+            "id": "CS4410", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Corequisite: CS 4410.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS4411", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 3420/ECE 3140or CS 3410.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4420", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110/ENGRD 2110.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS4620", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite or corequisite: CS 4620.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS4621", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110/ENGRD 2110and CS 2800or equivalent.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS4700", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite or corequisite: CS 4700.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS4701", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4740", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite:MATH 1920or MATH 2220and MATH 2940and CS 1110or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4750", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite:BTRY 3010and at least one course in algorithms.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4775", 
+            "distr": "(PBSS-AS)"
+        }, 
+        {
+            "requisites": "Prerequisite: probability theory (BTRY 3080, ECON 3130, MATH 4710, or strong performance in ENGRD 2700or equivalent); linear algebra (MATH 1920or equivalent); CS 2110or equivalent programming proficiency.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS4780", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2800or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4810", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: prior course in quantum mechanics (such asPHYS 3316or AEP 3620) is required. Prior familiarity with group theory is very helpful.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS4812", 
+            "distr": "(PBS-AS)"
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2800and CS 3110.Students who got an A- or better in bothCS 2800andCS 2110are welcome to take CS 4820 without CS 3110.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring", 
+                "Summer"
+            ], 
+            "id": "CS4820", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: MATH 2210-MATH 2220, MATH 2230-MATH 2240, or MATH 1920and MATH 2940; CS 2800(or MATH 3320, MATH 3340 (formerly 4320), MATH 3360, or MATH 4340); and some additional course in mathematics or theoretical computer science.", 
+            "forbid": "Forbidden Overlap: due to an overlap in content, students will receive credit for only one course in the following group: CS 4860, MATH 4810, MATH 4860, PHIL 4310.", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS4860", 
+            "distr": "(MQR-AS)"
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS4998", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS4999", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 3110or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5110", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: undergraduate data structures course or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5112", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4110, CS 6110, CS 6410.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5114", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: knowledge of basic computer science principles and skills (such as CS 1110,CS 1114,CS 2110,CS 3110, or equivalent).", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5306", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                ""
+            ], 
+            "id": "CS5320", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite or corequisite: CS 5320.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5321", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4410or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5414", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: ECE 4750or CS 4420.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5420", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: basic programming experience.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS5424", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2800or CS 4820or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5435", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Corequisite: CS 5435Security and Privacy Concepts in the World.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5439", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4410.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall or Spring"
+            ], 
+            "id": "CS5450", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS5620", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite or corequisite: CS 5620.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS5621", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                ""
+            ], 
+            "id": "CS5650", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: students are expected to have previously taken a course in programming, design, or psychology, or should have equivalent professional experience in one of these areas.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS5682", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                ""
+            ], 
+            "id": "CS5727", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110or equivalent (Fall). Prerequisite: CS 4780, CS 4786, or CS 5785or by permission of instructor (Spring).", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring (NYC)"
+            ], 
+            "id": "CS5740", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: MATH 1920or MATH 2220and MATH 2940and CS 1110or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5750", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: probability theory (BTRY 3080, ECON 3130, MATH 4710, or strong performance in ENGRD 2700or equivalent); linear algebra (MATH 2940or equivalent); CS 2110or equivalent programming proficiency.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS5780", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2800or the equivalent plus basic familiarity with Matlab or Python, or permission of the instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS5785", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS5998", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS5999", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: one of CS 4110or CS 6110, or permission of the instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6113", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4110, CS 6110, CS 6410.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6114", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: MATH 4310or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6210", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4410or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6410", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite:CS 4410or permission of instructor required.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6450", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6465", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: undergraduate-level understanding of algorithms and MATH 2210or equivalent.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6670", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 2110or equivalent programming experience, a course in artificial intelligence or any relevant subfield (e.g., NLP, information retrieval, machine learning).", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6742", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                ""
+            ], 
+            "id": "CS6754", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: mathematical maturity and acquaintance with propositional logic.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6764", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4780/CS 5780or CS 4786/CS 5786or CS 6780or equivalent, or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS6783", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4780or CS 4786.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6787", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: familiarity with Bayesian statistics and probabilistic modeling.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6788", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4820.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6815", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4820or graduate standing.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6820", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: general ease with algorithms and elementary probability theory, maturity with mathematical proofs (ability to read and write mathematical proofs).", 
+            "forbid": "", 
+            "semesters": [
+                "Fall"
+            ], 
+            "id": "CS6830", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7090", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 6110or permission of instructor.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7190", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7290", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7390", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7490", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "Prerequisite: CS 4410.", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7493", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Spring"
+            ], 
+            "id": "CS7690", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7790", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7792", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7794", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7796", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7890", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7893", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS7999", 
+            "distr": ""
+        }, 
+        {
+            "requisites": "", 
+            "forbid": "", 
+            "semesters": [
+                "Fall", 
+                "Spring"
+            ], 
+            "id": "CS9999", 
+            "distr": ""
+        }
+    ]
+}

@@ -1,0 +1,718 @@
+{
+    "status": "success", 
+    "date_created": "2018-08-10 14:53:55", 
+    "data": [
+        {
+            "code": "AAS", 
+            "name": "Asian American Studies"
+        }, 
+        {
+            "code": "AEM", 
+            "name": "Applied Economics & Management"
+        }, 
+        {
+            "code": "AEP", 
+            "name": "Applied & Engineering Physics"
+        }, 
+        {
+            "code": "AGSCI", 
+            "name": "Agricultural Sciences"
+        }, 
+        {
+            "code": "AIIS", 
+            "name": "American Indian and Indigenous Studies"
+        }, 
+        {
+            "code": "AIRS", 
+            "name": "Aerospace Studies"
+        }, 
+        {
+            "code": "ALS", 
+            "name": "Agriculture & Life Sciences"
+        }, 
+        {
+            "code": "AMST", 
+            "name": "American Studies"
+        }, 
+        {
+            "code": "ANSC", 
+            "name": "Animal Science"
+        }, 
+        {
+            "code": "ANTHR", 
+            "name": "Anthropology"
+        }, 
+        {
+            "code": "ARAB", 
+            "name": "Arabic"
+        }, 
+        {
+            "code": "ARCH", 
+            "name": "Architecture"
+        }, 
+        {
+            "code": "ARKEO", 
+            "name": "Archaeology"
+        }, 
+        {
+            "code": "ART", 
+            "name": "Art"
+        }, 
+        {
+            "code": "ARTH", 
+            "name": "History of Art"
+        }, 
+        {
+            "code": "AS", 
+            "name": "Arts & Sciences"
+        }, 
+        {
+            "code": "ASIAN", 
+            "name": "Asian Studies"
+        }, 
+        {
+            "code": "ASRC", 
+            "name": "Africana Studies & Research Center"
+        }, 
+        {
+            "code": "ASTRO", 
+            "name": "Astronomy"
+        }, 
+        {
+            "code": "BEE", 
+            "name": "Biological & Environmental Engineering"
+        }, 
+        {
+            "code": "BENGL", 
+            "name": "Bengali"
+        }, 
+        {
+            "code": "BIOAP", 
+            "name": "Animal Physiology & Anatomy"
+        }, 
+        {
+            "code": "BIOEE", 
+            "name": "Ecology & Evolutionary Biology"
+        }, 
+        {
+            "code": "BIOG", 
+            "name": "Biology: General Courses"
+        }, 
+        {
+            "code": "BIOMG", 
+            "name": "Molecular Biology and Genetics"
+        }, 
+        {
+            "code": "BIOMI", 
+            "name": "Microbiology"
+        }, 
+        {
+            "code": "BIOMS", 
+            "name": "Biomedical Sciences"
+        }, 
+        {
+            "code": "BIONB", 
+            "name": "Neurobiology & Behavior"
+        }, 
+        {
+            "code": "BME", 
+            "name": "Biomedical Engineering"
+        }, 
+        {
+            "code": "BPRE", 
+            "name": "Baker Program in Real Estate"
+        }, 
+        {
+            "code": "BSOC", 
+            "name": "Biology & Society"
+        }, 
+        {
+            "code": "BTRY", 
+            "name": "Biometry & Statistics"
+        }, 
+        {
+            "code": "BURM", 
+            "name": "Burmese"
+        }, 
+        {
+            "code": "CAPS", 
+            "name": "China & Asia Pacific Studies"
+        }, 
+        {
+            "code": "CEE", 
+            "name": "Civil & Environmental Engineering"
+        }, 
+        {
+            "code": "CHEM", 
+            "name": "Chemistry"
+        }, 
+        {
+            "code": "CHEME", 
+            "name": "Chemical Engineering"
+        }, 
+        {
+            "code": "CHIN", 
+            "name": "Chinese"
+        }, 
+        {
+            "code": "CHLIT", 
+            "name": "Chinese Literature"
+        }, 
+        {
+            "code": "CLASS", 
+            "name": "Classics"
+        }, 
+        {
+            "code": "COGST", 
+            "name": "Cognitive Science"
+        }, 
+        {
+            "code": "COLLS", 
+            "name": "College Scholar Program"
+        }, 
+        {
+            "code": "COML", 
+            "name": "Comparative Literature"
+        }, 
+        {
+            "code": "COMM", 
+            "name": "Communication"
+        }, 
+        {
+            "code": "CRP", 
+            "name": "City & Regional Planning"
+        }, 
+        {
+            "code": "CS", 
+            "name": "Computer Science"
+        }, 
+        {
+            "code": "CZECH", 
+            "name": "Czech"
+        }, 
+        {
+            "code": "DEA", 
+            "name": "Design & Environmental Analysis"
+        }, 
+        {
+            "code": "DSOC", 
+            "name": "Development Sociology"
+        }, 
+        {
+            "code": "DUTCH", 
+            "name": "Dutch"
+        }, 
+        {
+            "code": "EAS", 
+            "name": "Earth & Atmospheric Sciences"
+        }, 
+        {
+            "code": "ECE", 
+            "name": "Electrical & Computer Engineering"
+        }, 
+        {
+            "code": "ECON", 
+            "name": "Economics"
+        }, 
+        {
+            "code": "EDUC", 
+            "name": "Education"
+        }, 
+        {
+            "code": "ELSO", 
+            "name": "English Language Support"
+        }, 
+        {
+            "code": "ENGL", 
+            "name": "English"
+        }, 
+        {
+            "code": "ENGRC", 
+            "name": "Engineering Communications"
+        }, 
+        {
+            "code": "ENGRD", 
+            "name": "Engineering Distribution"
+        }, 
+        {
+            "code": "ENGRG", 
+            "name": "Engineering General Interest"
+        }, 
+        {
+            "code": "ENGRI", 
+            "name": "Engineering Introduction"
+        }, 
+        {
+            "code": "ENINT", 
+            "name": "English for International Students"
+        }, 
+        {
+            "code": "ENTOM", 
+            "name": "Entomology"
+        }, 
+        {
+            "code": "ESS", 
+            "name": "Environmental and Sustainability Sciences"
+        }, 
+        {
+            "code": "FDSC", 
+            "name": "Food Science"
+        }, 
+        {
+            "code": "FGSS", 
+            "name": "Feminist, Gender & Sexuality Studies"
+        }, 
+        {
+            "code": "FREN", 
+            "name": "French"
+        }, 
+        {
+            "code": "FSAD", 
+            "name": "Fiber Science & Apparel Design"
+        }, 
+        {
+            "code": "GERST", 
+            "name": "German Studies"
+        }, 
+        {
+            "code": "GOVT", 
+            "name": "Government"
+        }, 
+        {
+            "code": "GRAD", 
+            "name": "Graduate Research"
+        }, 
+        {
+            "code": "GREEK", 
+            "name": "Greek"
+        }, 
+        {
+            "code": "HADM", 
+            "name": "Hotel Administration"
+        }, 
+        {
+            "code": "HD", 
+            "name": "Human Development"
+        }, 
+        {
+            "code": "HE", 
+            "name": "Human Ecology Nondepartmental"
+        }, 
+        {
+            "code": "HEBRW", 
+            "name": "Hebrew"
+        }, 
+        {
+            "code": "HINDI", 
+            "name": "Hindi"
+        }, 
+        {
+            "code": "HIST", 
+            "name": "History"
+        }, 
+        {
+            "code": "IARD", 
+            "name": "International Agriculture & Rural Development"
+        }, 
+        {
+            "code": "ILRHR", 
+            "name": "Human Resource Management"
+        }, 
+        {
+            "code": "ILRIC", 
+            "name": "International & Comparative Labor"
+        }, 
+        {
+            "code": "ILRID", 
+            "name": "Industrial and Labor Relations Interdepartmental"
+        }, 
+        {
+            "code": "ILRLE", 
+            "name": "Labor Economics"
+        }, 
+        {
+            "code": "ILRLR", 
+            "name": "Labor Relations, Law and History"
+        }, 
+        {
+            "code": "ILROB", 
+            "name": "Organizational Behavior"
+        }, 
+        {
+            "code": "ILRST", 
+            "name": "Social Statistics"
+        }, 
+        {
+            "code": "IM", 
+            "name": "Independent Major"
+        }, 
+        {
+            "code": "INDO", 
+            "name": "Indonesian"
+        }, 
+        {
+            "code": "INFO", 
+            "name": "Information Science"
+        }, 
+        {
+            "code": "ITAL", 
+            "name": "Italian"
+        }, 
+        {
+            "code": "JAPAN", 
+            "name": "Japanese"
+        }, 
+        {
+            "code": "JPLIT", 
+            "name": "Japanese Literature"
+        }, 
+        {
+            "code": "JWST", 
+            "name": "Jewish Studies"
+        }, 
+        {
+            "code": "KANAD", 
+            "name": "Kannada"
+        }, 
+        {
+            "code": "KHMER", 
+            "name": "Khmer"
+        }, 
+        {
+            "code": "KOREA", 
+            "name": "Korean"
+        }, 
+        {
+            "code": "LA", 
+            "name": "Landscape Architecture"
+        }, 
+        {
+            "code": "LATA", 
+            "name": "Latin American Studies"
+        }, 
+        {
+            "code": "LATIN", 
+            "name": "Latin"
+        }, 
+        {
+            "code": "LAW", 
+            "name": "Law"
+        }, 
+        {
+            "code": "LEAD", 
+            "name": "Leadership"
+        }, 
+        {
+            "code": "LGBT", 
+            "name": "Lesbian, Gay, Bisexual & Transgender Studies"
+        }, 
+        {
+            "code": "LING", 
+            "name": "Linguistics"
+        }, 
+        {
+            "code": "LSP", 
+            "name": "Latino Studies Program"
+        }, 
+        {
+            "code": "MAE", 
+            "name": "Mechanical & Aerospace Engineering"
+        }, 
+        {
+            "code": "MATH", 
+            "name": "Mathematics"
+        }, 
+        {
+            "code": "MEDVL", 
+            "name": "Medieval Studies"
+        }, 
+        {
+            "code": "MILS", 
+            "name": "Military Science"
+        }, 
+        {
+            "code": "MSE", 
+            "name": "Materials Science & Engineering"
+        }, 
+        {
+            "code": "MUSIC", 
+            "name": "Music"
+        }, 
+        {
+            "code": "NACCT", 
+            "name": "Graduate Management Accounting"
+        }, 
+        {
+            "code": "NAVS", 
+            "name": "Naval Science"
+        }, 
+        {
+            "code": "NBA", 
+            "name": "Graduate Management Business Admin"
+        }, 
+        {
+            "code": "NBAB", 
+            "name": "Executive Boardroom Business Electives-JGSM"
+        }, 
+        {
+            "code": "NBAE", 
+            "name": "Business Admin Electives EMBA"
+        }, 
+        {
+            "code": "NBAY", 
+            "name": "Graduate Management Business Admin NYT"
+        }, 
+        {
+            "code": "NCC", 
+            "name": "Graduate Management Common Core"
+        }, 
+        {
+            "code": "NCCB", 
+            "name": "Executive Boardroom Common Core - JGSM"
+        }, 
+        {
+            "code": "NEPAL", 
+            "name": "Nepali"
+        }, 
+        {
+            "code": "NES", 
+            "name": "Near Eastern Studies"
+        }, 
+        {
+            "code": "NMI", 
+            "name": "Graduate Management Individualized Study"
+        }, 
+        {
+            "code": "NRE", 
+            "name": "Graduate Management Research"
+        }, 
+        {
+            "code": "NS", 
+            "name": "Nutritional Science"
+        }, 
+        {
+            "code": "NSE", 
+            "name": "Nuclear Science & Engineering"
+        }, 
+        {
+            "code": "NTRES", 
+            "name": "Natural Resources"
+        }, 
+        {
+            "code": "ORIE", 
+            "name": "Operations Research & Information Engineering"
+        }, 
+        {
+            "code": "PADM", 
+            "name": "Public Administration"
+        }, 
+        {
+            "code": "PALI", 
+            "name": "Pali"
+        }, 
+        {
+            "code": "PAM", 
+            "name": "Policy Analysis and Management"
+        }, 
+        {
+            "code": "PE", 
+            "name": "Physical Education & Athletics"
+        }, 
+        {
+            "code": "PERSN", 
+            "name": "Persian"
+        }, 
+        {
+            "code": "PHIL", 
+            "name": "Philosophy"
+        }, 
+        {
+            "code": "PHYS", 
+            "name": "Physics"
+        }, 
+        {
+            "code": "PLBIO", 
+            "name": "Plant Biology"
+        }, 
+        {
+            "code": "PLBRG", 
+            "name": "Plant Breeding"
+        }, 
+        {
+            "code": "PLHRT", 
+            "name": "Horticulture Sciences"
+        }, 
+        {
+            "code": "PLPPM", 
+            "name": "Plant Pathology"
+        }, 
+        {
+            "code": "PLSCI", 
+            "name": "Plant Sciences"
+        }, 
+        {
+            "code": "PLSCS", 
+            "name": "Soil & Crop Sciences"
+        }, 
+        {
+            "code": "PMA", 
+            "name": "Performing and Media Arts"
+        }, 
+        {
+            "code": "POLSH", 
+            "name": "Polish"
+        }, 
+        {
+            "code": "PORT", 
+            "name": "Portuguese"
+        }, 
+        {
+            "code": "PSYCH", 
+            "name": "Psychology"
+        }, 
+        {
+            "code": "PUNJB", 
+            "name": "Punjabi"
+        }, 
+        {
+            "code": "RELST", 
+            "name": "Religious Studies"
+        }, 
+        {
+            "code": "ROMAN", 
+            "name": "Romanian"
+        }, 
+        {
+            "code": "ROMS", 
+            "name": "Romance Studies"
+        }, 
+        {
+            "code": "RUSSA", 
+            "name": "Russian"
+        }, 
+        {
+            "code": "RUSSL", 
+            "name": "Russian Literature"
+        }, 
+        {
+            "code": "SANSK", 
+            "name": "Sanskrit"
+        }, 
+        {
+            "code": "SHUM", 
+            "name": "Society for the Humanities"
+        }, 
+        {
+            "code": "SINHA", 
+            "name": "Sinhala"
+        }, 
+        {
+            "code": "SOC", 
+            "name": "Sociology"
+        }, 
+        {
+            "code": "SPAN", 
+            "name": "Spanish"
+        }, 
+        {
+            "code": "STS", 
+            "name": "Science & Technology Studies"
+        }, 
+        {
+            "code": "STSCI", 
+            "name": "Statistical Science"
+        }, 
+        {
+            "code": "SUMER", 
+            "name": "Sumerian"
+        }, 
+        {
+            "code": "SWAHL", 
+            "name": "Swahili"
+        }, 
+        {
+            "code": "SYSEN", 
+            "name": "Systems Engineering"
+        }, 
+        {
+            "code": "TAG", 
+            "name": "Tagalog"
+        }, 
+        {
+            "code": "TAMIL", 
+            "name": "Tamil"
+        }, 
+        {
+            "code": "TECH", 
+            "name": "Digital Technology & Practice"
+        }, 
+        {
+            "code": "THAI", 
+            "name": "Thai"
+        }, 
+        {
+            "code": "TIBET", 
+            "name": "Tibetan"
+        }, 
+        {
+            "code": "TOX", 
+            "name": "Toxicology"
+        }, 
+        {
+            "code": "TURK", 
+            "name": "Turkish"
+        }, 
+        {
+            "code": "URDU", 
+            "name": "Urdu"
+        }, 
+        {
+            "code": "VETCS", 
+            "name": "Veterinary Medicine Clinical Sciences"
+        }, 
+        {
+            "code": "VETMI", 
+            "name": "Veterinary Medicine Microbiology"
+        }, 
+        {
+            "code": "VIEN", 
+            "name": "Viticulture and Enology"
+        }, 
+        {
+            "code": "VIET", 
+            "name": "Vietnamese"
+        }, 
+        {
+            "code": "VISST", 
+            "name": "Visual Studies"
+        }, 
+        {
+            "code": "VTBMS", 
+            "name": "Veterinary Medicine BioMedical Sciences"
+        }, 
+        {
+            "code": "VTMED", 
+            "name": "Veterinary Medicine Professional Curriculum"
+        }, 
+        {
+            "code": "VTPMD", 
+            "name": "Vet Med Population Medicine & Diagnostic Services"
+        }, 
+        {
+            "code": "WOLOF", 
+            "name": "Wolof"
+        }, 
+        {
+            "code": "WRIT", 
+            "name": "Writing Program"
+        }, 
+        {
+            "code": "YORUB", 
+            "name": "Yoruba"
+        }, 
+        {
+            "code": "ZULU", 
+            "name": "Zulu"
+        }
+    ]
+}
