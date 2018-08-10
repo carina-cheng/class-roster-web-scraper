@@ -2,14 +2,28 @@ import urllib2
 from bs4 import BeautifulSoup
 import json
 import datetime
+import sys
 
-# Returns an array of json objects
-def getSubjectJson(subjectUrl):
-    # test with 'https://classes.cornell.edu/browse/roster/FA18/subject/CS'
-    page = urllib2.urlopen('https://classes.cornell.edu/browse/roster/FA18/subject/CS')
+def getSubjects():
+    page = urllib2.urlopen('https://classes.cornell.edu/browse/roster/SP18')
     soup = BeautifulSoup(page, 'html.parser')
 
-    #title-subjectcode
+    subjects = soup.find_all('ul', class_ = 'subject-group')
+
+    for subject in subjects:
+        subjectInfo = {}
+
+        info = subject.find_all('a')
+        subjectInfo['code'] = str(info[0].get_text())
+        subjectInfo['name'] = str(info[1].get_text())
+
+    return 
+
+# Returns an array of json objects
+def getSubjectCourses(subjectCode):
+    page = urllib2.urlopen('https://classes.cornell.edu/browse/roster/FA18/subject/' + subjectCode)
+    soup = BeautifulSoup(page, 'html.parser')
+
     courses = soup.find_all('p', class_ = 'course-descr')
 
     results = []
@@ -62,18 +76,31 @@ def getCatalogValue(soup, classStr):
 
     return catalogValue
 
-def response():
-    status = "success"
+def courseResp(subjectCode):
     try:
-        data = getSubjectJson('https://classes.cornell.edu/browse/roster/FA18/subject/CS')
+        status = "success"
+        data = getSubjectCourses(subjectCode)
     except:
-        data = []
         status = "failed"
+        data = []
     
+    response = {}
+
+    response['status'] = status
+    response['code'] = subjectCode
+    response['data'] = data
+    response['date_created'] = datetime.datetime.now()
+
+def subjectsResp():
+    try:
+        status = "success"
+        data = getSubjects()
+    except:
+        status = "failed"
+        data = []
+
     response = {}
 
     response['status'] = status
     response['data'] = data
     response['date_created'] = datetime.datetime.now()
-
-print(response())
