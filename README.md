@@ -6,8 +6,9 @@ A web scraper for my school's class roster, collects information on all possible
 
 ## How to Run
 Available Commands:
+
 [list_subjects]     Lists the codes and names of all possible subjects in that semester, no argument required
 
 [list_courses]      Lists the course details from the subject given in [args]. Available arguments/course codes found in list_subjects
 
-To run a command, type **python main.py command_name [args]**
+To run a command, type **python main.py [command_name] [args]**
