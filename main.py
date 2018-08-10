@@ -154,4 +154,4 @@ if __name__ == "__main__":
             firstLine = 'Please insert arguments for the script. '
         elif numArgs > 2:
             firstLine = 'Too many arguments inputted. '
-        print(firstLine + "Type 'python python_soup.py help' for listed commands") 
+        print(firstLine + "Type 'python main.py help' for listed commands") 
